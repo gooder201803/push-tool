@@ -1,0 +1,8 @@
+ root权限;读写权限<-->adb root ; adb  remount
+重启<-->adb  reboot
+push  so<-->adb   push  ./libacamera.so  /vendor/lib/
+<-->
+<-->
+<-->
+<-->
+<-->
